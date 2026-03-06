@@ -10,7 +10,7 @@ namespace QoL;
 
 [BepInDependency(FsmUtilPlugin.Id)]
 [BepInDependency(ModMenuPlugin.Id)]
-[BepInAutoPlugin(id: "io.github.vitaxses.qol")]
+[BepInAutoPlugin(id: "io.github.vitaxses.qol.lite")]
 public sealed partial class QoLPlugin : BaseUnityPlugin, IModMenuCustomMenu
 {
     private readonly Harmony harmony = new(Id);

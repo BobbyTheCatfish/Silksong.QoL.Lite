@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <AssemblyTitle>QoL</AssemblyTitle>
-    <Version>3.3.0</Version>
+    <AssemblyTitle>QoL Lite</AssemblyTitle>
+    <Version>3.3.0.5</Version>
   </PropertyGroup>
 </Project>
